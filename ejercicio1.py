@@ -1,5 +1,5 @@
 
-""" La siguiente funcion calcula el MCD entre dos numeros enteros y devuelve un entero """
+"""  La siguiente funcion calcula el MCD entre dos numeros enteros y devuelve un entero """
 def calcular_mcd(a, b):
 
     while b != 0:

@@ -1,5 +1,5 @@
 """
- la siguiente funcion Cuenta la frecuencia de cada palabra en una cadena de caracteres que recibe 
+  la siguiente funcion Cuenta la frecuencia de cada palabra en una cadena de caracteres que recibe 
  como parametro la cadena de caracteres (str) donde Retorna un diccionario con cada palabra y frecuencia
  """
 

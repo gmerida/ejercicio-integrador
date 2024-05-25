@@ -1,5 +1,5 @@
 
-""" el siguiente metodo es interativo
+"""  el siguiente metodo es interativo
     Solicita al usuario que ingrese un valor entero y lo devuelve.
     Itera mientras el valor no sea un entero válido.
 """

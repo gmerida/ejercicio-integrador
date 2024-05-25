@@ -1,5 +1,5 @@
 """
- Constructor de la clase Persona. Los datos pueden estar vacíos. 
+  Constructor de la clase Persona. Los datos pueden estar vacíos. 
  Parámetros:
  nombre (str): Nombre de la persona.
  edad (int): Edad de la persona.

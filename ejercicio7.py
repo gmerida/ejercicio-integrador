@@ -1,5 +1,5 @@
 """
- Constructor de la clase Cuenta. Los datos pueden estar vacíos. 
+  Constructor de la clase Cuenta. Los datos pueden estar vacíos. 
  Parámetros:
  titular (str): Nombre de la persona. (campo obligatorio)
  cantidad (int): cuenta de la persona.(campo opcional)
